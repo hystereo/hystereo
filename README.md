@@ -1,5 +1,5 @@
 <h1>Dzień dobry!<br/>
-<h2>Jestem Mikołaj, absolwentem studiów informatycznych. Obecnie rozwijam swoje umiejętności informatyczne i poszukuję pierwszej pracy w branży IT.</h2>
+<h2>Nazywam się Mikołaj Łukasiewicz i jestem absolwentem studiów informatycznych. Obecnie rozwijam swoje umiejętności informatyczne i poszukuję pierwszej pracy w branży IT.</h2>
 
 <h2>🛠 Technologie, z którymi pracowałem:</h2>
 
