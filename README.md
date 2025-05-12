@@ -1,19 +1,21 @@
-<h1>Dzień dobry! </h1>
-<h2>Jestem Mikołaj, absolwent kierunku informatyka. Obecnie rozwijam swoje umiejętności techniczne i poszukuję pierwszej pracy w branży IT. </h2>
+<h1>Cześć, jestem Mikołaj!<br/>
+<a href="#">Absolwent Informatyki</a> • <a href="#">Pasjonat programowania</a> • <a href="#">Poszukuję pierwszych doświadczeń w IT</a>
+</h1>
 
-<h2>🛠 Technologie, które znam:</h2>
+<h2>🛠 Technologie, z którymi pracowałem:</h2>
+
 - <b>C++</b>
 - <b>Java</b>
 - <b>SQL</b>
 - <b>Python</b>
 
+<h2>📜 Certyfikaty i warsztaty:</h2>
 
-<h2>📜 Certyfikaty i ukończone warsztaty:</h2>
-- ECCC CS M2 Grafika Komputerowa - podstawy Photoshopa
-- Wykorzystanie aplikacji w Javie przy pomocy Spring Framework
-- Programowawnie aplikacji mobilnych dla systemu Android
+- <b>ECCC CS M2 – Grafika komputerowa</b> (podstawy Photoshopa)
+- <b>Spring Framework</b> – wykorzystanie w aplikacjach Java
+- <b>Programowanie aplikacji mobilnych</b> dla systemu Android
 
-<h2> Projekty: </h2>
+<h2>👨‍💻 Projekty:</h2>
 
 
 <!--
