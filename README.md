@@ -2,24 +2,25 @@
 <h2>Jestem Mikołaj, absolwentem studiów informatycznych. Obecnie rozwijam swoje umiejętności informatyczne i poszukuję pierwszej pracy w branży IT.</h2>
 
 <h2>🛠 Technologie, z którymi pracowałem:</h2>
-<ul>
-<li><b>C++</b></li>
-<li><b>Java</b></li>
-<li><b>SQL</b></li>
-<li><b>Python</b></li>
-</ul>
+
+ - <b>C++</b>
+ - <b>Java</b>
+ - <b>SQL</b>
+ - <b>Python</b>
+
 <h2>📜 Certyfikaty i warsztaty:</h2>
-<ul>
-<li><b>ECCC CS M2 – Grafika komputerowa</b> (podstawy Photoshopa)</li>
-<li><b>Spring Framework</b> – wykorzystanie w aplikacjach Java</li>
-<li><b>Programowanie aplikacji mobilnych</b> dla systemu Android</li>
-</ul>
+
+ - <b>ECCC CS M2 – Grafika komputerowa</b> (podstawy Photoshopa)
+ - <b>Spring Framework</b> – wykorzystanie w aplikacjach Java
+ - <b>Programowanie aplikacji mobilnych</b> dla systemu Android
+
 <h2>👨‍💻 Projekty:</h2>
 
+- [Zrównoleglenie rozkładu LU za pomocą OpenACC](https://github.com/hystereo/ludecomp)
+- [Analiza przypadków raka płuc](https://github.com/hystereo/canceranalysis)
+- [Gra w kółko i krzyżyk z użyciem RMI](https://github.com/hystereo/TicTacToe) (projekt nieukończony, w trakcie rozwoju)
 
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
