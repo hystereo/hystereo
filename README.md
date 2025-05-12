@@ -2,16 +2,16 @@
 <h2>Jestem Mikołaj, absolwent kierunku informatyka. Obecnie rozwijam swoje umiejętności techniczne i poszukuję pierwszej pracy w branży IT. </h2>
 
 <h2>🛠 Technologie, które znam:</h2>
-- C++
-- Java
-- SQL
-- Python
+- <b>C++</b>
+- <b>Java</b>
+- <b>SQL</b>
+- <b>Python</b>
 
 
 <h2>📜 Certyfikaty i ukończone warsztaty:</h2>
-- **ECCC CS M2 Grafika Komputerowa** - podstawy Photoshopa
-- **Wykorzystanie aplikacji w Javie przy pomocy Spring Framework**
-- **Programowawnie aplikacji mobilnych dla systemu Android**
+- ECCC CS M2 Grafika Komputerowa - podstawy Photoshopa
+- Wykorzystanie aplikacji w Javie przy pomocy Spring Framework
+- Programowawnie aplikacji mobilnych dla systemu Android
 
 <h2> Projekty: </h2>
 
